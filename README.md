@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi im pharmacist
+Hi im Pharmacist Chemist Biologist (QFB) who for various, who one day try deveploment and wish for develop the rest  of his life.
+I have a degree from University on QFB, but dont get confused im a very good developer, most of things i know comes from Plazti couses, Udemy courses, the same all good documentation and from that all good people that shares knowledge on the net.
+
+ my favorite JS frameworks: Vue, React, Svelte
+ 
+ my CSS favorite framework: Bootstrap, Sass(i know is a preprocessor) but also i love write plain CSS.
+ 
+ currently learning: Node.Js and Express.JS
+ 
+ thanky for your visit.
